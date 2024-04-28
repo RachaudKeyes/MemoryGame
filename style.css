@@ -1,0 +1,53 @@
+#game div {
+  border: 0.4vw solid gold;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  position: relative;
+  background-image: url("https://t4.ftcdn.net/jpg/06/01/93/71/360_F_601937174_2h70YKVtBkBGm1fk3y9RpCI1QoKvfC3i.jpg");
+  background-size: 10rem;
+  background-position: center;
+}
+
+#game img{
+  width: 45vw;
+  height: 60vh;
+  position: relative;
+  left: 25vw;
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 4rem;
+  margin-top: 0;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background: gold;
+  font-size: 2vh;
+  font-weight: bold;
+  border-radius: 2vw;
+  padding: 1vh;
+  position: relative;
+  margin: 5vw;
+  margin-top: 2vh;
+}
+
+
